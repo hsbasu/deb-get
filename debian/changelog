@@ -1,3 +1,9 @@
+deb-get (0.4.4-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Himadri Sekhar Basu <mamolinux@mamolinux.org>  Thu, 30 Jan 2025 20:23:25 +0000
+
 deb-get (0.3.9-1) unstable; urgency=medium
 
   * New upstream release.
